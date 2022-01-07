@@ -6,7 +6,7 @@
 npm i
 ```
 
-## Run
+## Usage
 
 ```bash
 npm start
@@ -16,5 +16,5 @@ npm start
 
 ```bash
 # try this command
-# nvm install v14.3.0
+nvm install v14.3.0
 ```
