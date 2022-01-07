@@ -2,6 +2,10 @@
 
 ## Setup
 
+Please setup and start this frontend on your own computer
+
+To run the backend, please refer to https://github.com/Forward-UIUC-2021F/juefei-chen-education-today
+
 ```bash
 npm i
 ```
