@@ -43,7 +43,7 @@ Below them, there is a table, and you can see the tasks (for scraping faculty in
 
 You can visualize facutly info of a department with the search box at the top. If you only select a university without specifying department, the department of this university will be listed.
 
-If you have seen errors in some fields, you can directly modify each cell and then click "SUBMIT". All changes will be saved to the database.
+If you have seen errors in some fields, you can directly modify each cell and then click "CHANGE". All changes will be saved to the database.
 
 **Tasks**
 
